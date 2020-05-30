@@ -27,7 +27,7 @@ A larger distance means the two images are not alike and a smaller distance mean
 As such, we can begin grouping similar images together and pick any representative image from each group to make up the subset of unique images.
 
 There are definitely many issues with this, but hey, it's a start.
-For more details, [follow me]()
+For more details, [follow me](https://github.com/nicholaspun/similar-images-purger/tree/master/attempt1) 
 
 ## Attempt #2
 
