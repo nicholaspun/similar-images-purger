@@ -1,6 +1,23 @@
 # Similar Images Purger
 
-## The Task
+## Backstory
+A while ago I went on a trip to Iceland with a couple friends.
+Upon returning, we created a shared Google Photos album which quickly filled up with over 2000 images.
+On one hand, we did make that many memories.
+Buuuuut, on the other hand, there were many pairs of images that looked like the following:
+<div style="text-align: center">
+    <img src="similar_image_1.jpg" width="200"/>
+    <img src="similar_image_2.jpg" width="200"/>
+</div>
+
+(If you look reaaally closely, the clouds are in _slightly_ different spots)
+
+This is less than ideal.
+Every time I wish to go through this photo album and bring back memories I'll have to flip through multiple duplicates.
+As such, I went on a quest to purge similar looking images from the gigantic album. 
+
+## Task
+Create something (most likely a script) that can go through a directory containing the photos from this trip and isolate a subset of "unique" images.
 
 ## Attempt #1
 
