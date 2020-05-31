@@ -44,4 +44,11 @@ The averaged distance approach also seems intuitively sane.
 Similar images will differ very little pixel-by-pixel, and indeed this approach beats the histogram approach with respects to recognizing that `image3` and `image4` are similar.
 I'll note that there was a bug I couldn't figure out where I was getting `Nan`s in my norms calculation.
 I ended up using `numpy.nanmean` over `numpy.average` instead of figuring it out.
-(i.e. This approach may not be perfect)
+(i.e. There's some ironing out that needs to be done with this approach)
+
+## Conclusion
+Either of the histogram or averaged distance approach _should_ work well for my problem.
+Of course, I'm missing an entire component here.
+I've not actually achieved my task of creating a script that utilizes this technique to find unique images, but we'll put that aside for now.
+Instead, let's have a bit more fun with more technology.
+[The story continues!]()
