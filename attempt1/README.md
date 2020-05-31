@@ -51,4 +51,4 @@ Either of the histogram or averaged distance approach _should_ work well for my 
 Of course, I'm missing an entire component here.
 I've not actually achieved my task of creating a script that utilizes this technique to find unique images, but we'll put that aside for now.
 Instead, let's have a bit more fun with more technology.
-[The story continues!]()
+[The story continues!](https://github.com/nicholaspun/similar-images-purger/tree/master/attempt2)
