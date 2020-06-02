@@ -39,6 +39,7 @@ For more details, [follow me](https://github.com/nicholaspun/similar-images-purg
 ## Idea #3 - K-means Clustering of Image Feature Vectors
 
 We stay on the deep learning route, but roll our own models to solve our particular problem.
+This was fun, I hadn't done anything like this before, so please [check it out!](https://github.com/nicholaspun/similar-images-purger/tree/master/idea3)
 
 ## Conclusion
 
