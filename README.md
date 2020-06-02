@@ -38,9 +38,12 @@ For more details, [follow me](https://github.com/nicholaspun/similar-images-purg
 
 ## Idea #3 - K-means Clustering of Image Feature Vectors
 
-## Miscellaneous Notes
+We stay on the deep learning route, but roll our own models to solve our particular problem.
 
-### Converting HEIF files to JPEG
+## Conclusion
+
+### Miscellaneous Note (Converting HEIF files to JPEG)
+
 The models I used didn't accept HEIF files (side note: I was annoyed to discover this after waiting for the `turicreate` model build over only ~1300 of my images instead of all 2000)
 My initial idea was to create a Photoshop script to bulk convert them, but unfortunately PS doesn't support the HEIF file format (unless one is on a Mac), so that was a bust.
 After a bit of googling, I found _Stuff Jason Does_'s [blog post](http://stuffjasondoes.com/2019/07/10/batch-convert-heic-to-jpg-in-linux/) which utilized  [libheif](https://github.com/strukturag/libheif) to convert HEIF to JPEG and life was good again.
