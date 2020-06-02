@@ -44,7 +44,7 @@ features = similarity_model._extract_features(imgs, verbose=True, batch_size=64)
 embeddings = features['__image_features__'].to_numpy()
 ```
 Why I'm mentioning this:
-I did actually try to go from this model to a clustering model, but ripping out these feature vectors and setting stuff up so I could use the `Turi Create` k-means model was too much ad-hoc, hacky coding for me.
+I did actually try to go from this model to a clustering model, but ripping out these feature vectors and setting stuff up so I could use the _Turi Create_ k-means model was too much ad-hoc, hacky coding for me.
 
 (Okay, to be fair, I also completely lost information on the actual image.
 The `_extract_features` function only returns feature vectors, but not metadata concerning the image.
