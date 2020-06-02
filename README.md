@@ -19,7 +19,7 @@ As such, I went on a quest to purge similar looking images from the gigantic alb
 ## Task
 Create something (most likely a script) that can go through a directory containing the photos from this trip and isolate a subset of "unique" images.
 
-## Attempt #1 - Document Distance
+## Idea #1 - Document Distance
 We start simple.
 We can cast our problem here as a "Document Distance" problem.
 We create some metric _d_ that takes in two images and returns a some number that represents the "distance" between two images.
@@ -27,9 +27,11 @@ A larger distance means the two images are not alike and a smaller distance mean
 As such, we can begin grouping similar images together and pick any representative image from each group to make up the subset of unique images.
 
 There are definitely many issues with this, but hey, it's a start.
-For more details, [follow me](https://github.com/nicholaspun/similar-images-purger/tree/master/attempt1) 
+For more details, [follow me](https://github.com/nicholaspun/similar-images-purger/tree/master/idea1) 
 
-## Attempt #2
+## Idea #2 - Turicreate Image Similarity Model
+
+## Idea #3 - K-means Clustering of Image Feature Vectors
 
 ## Miscellaneous Notes
 
