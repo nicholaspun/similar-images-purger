@@ -31,6 +31,11 @@ For more details, [follow me](https://github.com/nicholaspun/similar-images-purg
 
 ## Idea #2 - Turi Create Image Similarity Model
 
+We go down the deep learning route as we find that someone on the internet has already solved our problem for us (or have they?).
+Specifically, _Turi Create_ is a python library that creates a model allowing us to identify similar images.
+
+For more details, [follow me](https://github.com/nicholaspun/similar-images-purger/tree/master/idea2) 
+
 ## Idea #3 - K-means Clustering of Image Feature Vectors
 
 ## Miscellaneous Notes
