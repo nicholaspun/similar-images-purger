@@ -29,7 +29,7 @@ As such, we can begin grouping similar images together and pick any representati
 There are definitely many issues with this, but hey, it's a start.
 For more details, [follow me](https://github.com/nicholaspun/similar-images-purger/tree/master/idea1) 
 
-## Idea #2 - Turicreate Image Similarity Model
+## Idea #2 - Turi Create Image Similarity Model
 
 ## Idea #3 - K-means Clustering of Image Feature Vectors
 
