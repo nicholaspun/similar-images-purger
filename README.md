@@ -43,6 +43,11 @@ This was fun, I hadn't done anything like this before, so please [check it out!]
 
 ## Conclusion
 
+We've done all the coding.
+Now, there's a big [showdown](https://github.com/nicholaspun/similar-images-purger/tree/master/showdown) between our ideas!
+Which idea will reign supreme?
+Click [this link](https://github.com/nicholaspun/similar-images-purger/tree/master/showdown) or [this guy](https://github.com/nicholaspun/similar-images-purger/tree/master/showdown) or even [this one](https://github.com/nicholaspun/similar-images-purger/tree/master/showdown) to find out!
+
 ### Miscellaneous Note (Converting HEIF files to JPEG)
 
 The models I used didn't accept HEIF files (side note: I was annoyed to discover this after waiting for the `turicreate` model build over only ~1300 of my images instead of all 2000)
